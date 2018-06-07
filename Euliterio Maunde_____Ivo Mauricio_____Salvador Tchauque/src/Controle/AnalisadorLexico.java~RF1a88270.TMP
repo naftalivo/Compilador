@@ -19,7 +19,7 @@ import java.util.List;
  * @author Salvador Chauque
  */
 public class AnalisadorLexico {
-//Para mais informacoes contacte-me atravez do email: euliteriomaunde2@gmail.com ou pelo contacto telefone : 846426941
+Para mais informacoes contacte-me atravez do email: euliteriomaunde2@gmail.com ou pelo contacto telefone : 846426941
 
     public boolean verificacaoTotal(String string) {
         if (verificarTipoDeDado(string)) {
